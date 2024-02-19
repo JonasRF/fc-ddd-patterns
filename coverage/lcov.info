@@ -10,6 +10,7 @@ FN:45,(anonymous_7)
 FN:52,(anonymous_8)
 FN:53,(anonymous_9)
 FNF:9
+<<<<<<< HEAD
 FNH:9
 FNDA:8,(anonymous_1)
 FNDA:13,(anonymous_2)
@@ -41,6 +42,39 @@ DA:45,9
 DA:46,0
 DA:49,8
 DA:53,19
+=======
+FNH:8
+FNDA:4,(anonymous_1)
+FNDA:2,(anonymous_2)
+FNDA:2,(anonymous_3)
+FNDA:2,(anonymous_4)
+FNDA:0,(anonymous_5)
+FNDA:4,(anonymous_6)
+FNDA:4,(anonymous_7)
+FNDA:6,(anonymous_8)
+FNDA:6,(anonymous_9)
+DA:2,4
+DA:9,4
+DA:10,4
+DA:11,4
+DA:12,4
+DA:13,4
+DA:17,2
+DA:21,2
+DA:25,2
+DA:29,0
+DA:30,0
+DA:35,4
+DA:36,0
+DA:38,4
+DA:39,0
+DA:41,4
+DA:42,0
+DA:45,4
+DA:46,0
+DA:49,4
+DA:53,6
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 LF:21
 LH:17
 BRDA:35,0,0,0
@@ -61,6 +95,7 @@ FN:58,(anonymous_6)
 FN:62,(anonymous_7)
 FN:66,(anonymous_8)
 FNF:8
+<<<<<<< HEAD
 FNH:8
 FNDA:10,(anonymous_1)
 FNDA:1,(anonymous_2)
@@ -95,6 +130,42 @@ DA:63,10
 DA:67,29
 LF:23
 LH:18
+=======
+FNH:7
+FNDA:4,(anonymous_1)
+FNDA:0,(anonymous_2)
+FNDA:2,(anonymous_3)
+FNDA:2,(anonymous_4)
+FNDA:2,(anonymous_5)
+FNDA:6,(anonymous_6)
+FNDA:2,(anonymous_7)
+FNDA:10,(anonymous_8)
+DA:1,4
+DA:16,4
+DA:17,4
+DA:18,4
+DA:19,4
+DA:20,4
+DA:21,4
+DA:25,0
+DA:26,0
+DA:29,0
+DA:30,0
+DA:33,0
+DA:34,0
+DA:37,0
+DA:38,0
+DA:41,0
+DA:42,0
+DA:47,2
+DA:51,2
+DA:55,2
+DA:59,6
+DA:63,2
+DA:67,10
+LF:23
+LH:13
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 BRDA:25,0,0,0
 BRDA:29,1,0,0
 BRDA:33,2,0,0
@@ -120,11 +191,19 @@ FN:65,(anonymous_12)
 FN:69,(anonymous_13)
 FNF:13
 FNH:8
+<<<<<<< HEAD
 FNDA:4,(anonymous_1)
 FNDA:8,(anonymous_2)
 FNDA:4,(anonymous_3)
 FNDA:4,(anonymous_4)
 FNDA:4,(anonymous_5)
+=======
+FNDA:1,(anonymous_1)
+FNDA:3,(anonymous_2)
+FNDA:1,(anonymous_3)
+FNDA:1,(anonymous_4)
+FNDA:1,(anonymous_5)
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 FNDA:0,(anonymous_6)
 FNDA:16,(anonymous_7)
 FNDA:4,(anonymous_8)
@@ -133,6 +212,7 @@ FNDA:0,(anonymous_10)
 FNDA:0,(anonymous_11)
 FNDA:0,(anonymous_12)
 FNDA:0,(anonymous_13)
+<<<<<<< HEAD
 DA:3,4
 DA:5,4
 DA:7,4
@@ -144,6 +224,19 @@ DA:17,8
 DA:21,4
 DA:25,4
 DA:29,4
+=======
+DA:3,1
+DA:5,1
+DA:7,1
+DA:8,1
+DA:11,1
+DA:12,1
+DA:13,1
+DA:17,3
+DA:21,1
+DA:25,1
+DA:29,1
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 DA:30,0
 DA:32,4
 DA:33,0
@@ -227,6 +320,7 @@ FN:32,(anonymous_6)
 FN:37,(anonymous_7)
 FNF:7
 FNH:5
+<<<<<<< HEAD
 FNDA:6,(anonymous_1)
 FNDA:13,(anonymous_2)
 FNDA:10,(anonymous_3)
@@ -242,10 +336,28 @@ DA:12,6
 DA:16,13
 DA:20,10
 DA:24,13
+=======
+FNDA:1,(anonymous_1)
+FNDA:3,(anonymous_2)
+FNDA:3,(anonymous_3)
+FNDA:3,(anonymous_4)
+FNDA:0,(anonymous_5)
+FNDA:0,(anonymous_6)
+FNDA:1,(anonymous_7)
+DA:3,1
+DA:9,1
+DA:10,1
+DA:11,1
+DA:12,1
+DA:16,3
+DA:20,3
+DA:24,3
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 DA:28,0
 DA:29,0
 DA:33,0
 DA:34,0
+<<<<<<< HEAD
 DA:38,6
 DA:39,0
 DA:41,6
@@ -253,6 +365,15 @@ DA:42,0
 DA:44,6
 DA:45,0
 DA:47,6
+=======
+DA:38,1
+DA:39,0
+DA:41,1
+DA:42,0
+DA:44,1
+DA:45,0
+DA:47,1
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 LF:19
 LH:12
 BRDA:38,0,0,0
@@ -266,7 +387,11 @@ SF:src\infrastructure\customer\repository\sequelize\customer.model.ts
 FNF:0
 FNH:0
 DA:6,1
+<<<<<<< HEAD
 DA:12,30
+=======
+DA:12,11
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 LF:2
 LH:2
 BRF:0
@@ -330,11 +455,19 @@ FNDA:8,(anonymous_7)
 DA:8,1
 DA:9,1
 DA:10,1
+<<<<<<< HEAD
 DA:17,29
 DA:22,20
 DA:26,8
 DA:29,8
 DA:33,8
+=======
+DA:17,10
+DA:22,5
+DA:26,2
+DA:29,2
+DA:33,2
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 LF:8
 LH:8
 BRDA:27,0,0,0
@@ -351,6 +484,7 @@ FN:26,(anonymous_5)
 FN:29,(anonymous_6)
 FNF:3
 FNH:3
+<<<<<<< HEAD
 FNDA:4,(anonymous_4)
 FNDA:15,(anonymous_5)
 FNDA:15,(anonymous_6)
@@ -361,6 +495,18 @@ DA:17,34
 DA:22,4
 DA:26,15
 DA:29,15
+=======
+FNDA:1,(anonymous_4)
+FNDA:5,(anonymous_5)
+FNDA:5,(anonymous_6)
+DA:9,1
+DA:10,1
+DA:11,1
+DA:17,11
+DA:22,1
+DA:26,5
+DA:29,5
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 LF:7
 LH:7
 BRDA:27,0,0,0
@@ -380,6 +526,7 @@ FN:54,(anonymous_8)
 FN:73,(anonymous_9)
 FN:76,(anonymous_10)
 FNF:9
+<<<<<<< HEAD
 FNH:9
 FNDA:3,orderItemModelToOrderItem
 FNDA:5,(anonymous_3)
@@ -388,12 +535,23 @@ FNDA:1,(anonymous_5)
 FNDA:1,(anonymous_6)
 FNDA:3,(anonymous_7)
 FNDA:1,(anonymous_8)
+=======
+FNH:5
+FNDA:2,orderItemModelToOrderItem
+FNDA:2,(anonymous_3)
+FNDA:2,(anonymous_4)
+FNDA:0,(anonymous_5)
+FNDA:0,(anonymous_6)
+FNDA:0,(anonymous_7)
+FNDA:0,(anonymous_8)
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 FNDA:1,(anonymous_9)
 FNDA:2,(anonymous_10)
 DA:1,1
 DA:2,1
 DA:3,1
 DA:4,1
+<<<<<<< HEAD
 DA:7,3
 DA:10,4
 DA:12,5
@@ -410,6 +568,24 @@ DA:64,0
 DA:67,1
 DA:68,1
 DA:70,1
+=======
+DA:7,2
+DA:10,1
+DA:12,2
+DA:17,2
+DA:32,0
+DA:33,0
+DA:34,0
+DA:38,0
+DA:46,0
+DA:47,0
+DA:57,0
+DA:58,0
+DA:64,0
+DA:67,0
+DA:68,0
+DA:70,0
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 DA:74,1
 DA:76,1
 DA:77,2
@@ -417,7 +593,11 @@ DA:78,2
 DA:80,2
 DA:83,1
 LF:26
+<<<<<<< HEAD
 LH:25
+=======
+LH:14
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 BRF:0
 BRH:0
 end_of_record
@@ -426,7 +606,11 @@ SF:src\infrastructure\product\repository\sequelize\product.model.ts
 FNF:0
 FNH:0
 DA:1,1
+<<<<<<< HEAD
 DA:7,41
+=======
+DA:7,12
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 LF:2
 LH:2
 BRF:0
@@ -441,15 +625,24 @@ FN:33,(anonymous_5)
 FN:35,(anonymous_6)
 FNF:5
 FNH:1
+<<<<<<< HEAD
 FNDA:6,(anonymous_2)
+=======
+FNDA:1,(anonymous_2)
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 FNDA:0,(anonymous_3)
 FNDA:0,(anonymous_4)
 FNDA:0,(anonymous_5)
 FNDA:0,(anonymous_6)
 DA:1,1
 DA:3,1
+<<<<<<< HEAD
 DA:5,4
 DA:7,6
+=======
+DA:5,1
+DA:7,1
+>>>>>>> 913b6fa0b97058dd356dbffa67d1c78d312dca1d
 DA:15,0
 DA:29,0
 DA:30,0
