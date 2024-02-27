@@ -6,6 +6,7 @@ import ProductCreatedEvent from "../../product/event/product-created.event";
 import EventDispatcher from "./event-dispatcher";
 import Customer from "../../customer/entity/customer";
 import Address from "../../customer/value-object/address";
+import CustomerRepository from "../../../infrastructure/customer/repository/sequelize/customer.repository";
 
 describe("Domain events tests", () => {
   it("should register an event handler", () => {
